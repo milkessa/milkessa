@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milkessa
-- 👀 I’m interested in ...Web, Mobile Development and WordPress Dev
-- 🌱 I’m currently learning ... Software Engineering at Addis Ababa Science and Technology University
+- 👀 I’m interested in ...Web Development,Graphics Design and WordPress Development
+- 🌱 Graduated in Software Engineering from Addis Ababa Science and Technology University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... milkessagebi@gmail.com
 
